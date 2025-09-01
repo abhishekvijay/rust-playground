@@ -37,6 +37,7 @@
 - [Yet Another Rust Resource](https://yarr.fyi/) is a short crash course in Rust, aimed specifically at high-level programmers (e.g. Python). It contains exercises to be tried as you go. A [blog post](https://ntietz.com/blog/introducing-yet-another-rust-resource-or-yarr/) explains the background. Also available as a [PDF](https://yarr.fyi/yarr.pdf).
 - [Fast Track to Rust](https://freddiehaddad.github.io/fast-track-to-rust/) - an introduction top Rust by building a grep-like program.
 - [Rust for C Programmers](https://rust-for-c-programmers.salewskis.de/) - a Rust course for C/C++ programmers
+- [Rust Curious](https://rustcurious.com/) - WIP Rust training course.
 
 ## Books
 
@@ -130,6 +131,7 @@
 - [Thinking in Expressions](https://corrode.dev/blog/expressions/).
 - [Tips for faster Rust CI builds](https://corrode.dev/blog/tips-for-faster-ci-builds/).
 - [Prototyping in Rust](https://corrode.dev/blog/prototyping/).
+- [RustCurious](https://rustcurious.com/elements/) - a visual guide to the Rust programming language’s type system.
 
 ### Error Handling
 
