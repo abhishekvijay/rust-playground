@@ -141,6 +141,7 @@
 - [Practical guide to Error Handling in Rust](https://dev-state.com/posts/error_handling/).
 - [Error handling in Rust: A comprehensive tutorial](https://blog.logrocket.com/error-handling-rust/).
 - [Error handling in Rust - choosing between thiserror and anyhow](https://medium.com/@evadawnley/error-handling-in-rust-choosing-between-thiserror-and-anyhow-6da5ce825d34).
+- [Trying to get error backtraces in rust libraries right](https://www.iroh.computer/blog/error-handling-in-iroh) - good discussion of `anyhow` vs `thiserror` approaches, uses `snafu` and extends it to get better backtraces.
 
 ### Logging and Tracing
 
